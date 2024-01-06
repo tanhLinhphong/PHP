@@ -55,7 +55,8 @@ function viewCart()
             padding: 20px;
         }
         h1, h2 {
-            color :#007bff;
+            color :Red;
+            text-align: center;
         }
         form {
             margin-bottom: 20px;
@@ -65,6 +66,7 @@ function viewCart()
         }
         p {
             margin-bottom: 0;
+
         }
     </style>
 </head>
