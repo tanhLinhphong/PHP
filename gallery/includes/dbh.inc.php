@@ -1,7 +1,8 @@
 <?php
-$servername="localhost";
-$username="root";
-$password="";
-$dbname="galleryadmin";
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "galleryadmin";
 
-$conn=mysqli_connect($servername,$username,$password,$dbname);
+$conn=mysqli_connect($servername, $username, $password, $dbname);
+?>

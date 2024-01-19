@@ -4,4 +4,4 @@ CREATE TABLE gallery(
     descGallery LONGTEXT not null ,
     imgFullNameGallery LONGTEXT not null ,
     orderGallery int(11) not null
-)
+);
